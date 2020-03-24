@@ -1,0 +1,78 @@
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+<title>SpaceX Watch</title>
+<link rel="stylesheet" type="text/css" href="css/challenge2.css"/>
+<link href='https://fonts.googleapis.com/css?family=Marvel' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Marvel';font-size: 22px;
+}
+</style>
+
+</head>
+
+<body>
+
+
+	<div id="container">
+		<div id="tijd">
+			<div id="tijdendatum">
+				<h1 id="klok"></h1>
+				<p id="datum"></p>
+				
+				<script src="js/tijd.js"></script>
+				<script src="js/datum.js"></script>
+			</div>
+		</div>
+	
+	
+		<div id="sterren">
+			<div class="sterren"></div>
+		</div>
+	
+		<div id="astronaut">
+			<div class="astronaut">
+			</div>
+		</div>
+		
+		<div id="aarde">
+			<div class="aarde">
+			<!-- <img src="img/aarde.png"  height="60%" width="100%"> -->
+			</div>
+		</div>
+		
+		<div id="man">
+			<div class="man">
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		       <script src="js/TweenMax.min.js"></script>
+				 <script>
+					TweenMax.from("#klok, #datum", 5,{opacity:0, scale:0, ease:Expo.easeOut});
+					TweenMax.to("#sterren", 500,{y:50, x:100,ease:Elastic.easeOut, repeat:-1});
+					TweenMax.to("#astronaut", 300,{y:10, x:25,ease:Elastic.easeOut,  rotation:20, repeat:-1});
+					TweenMax.to("#aarde", 500, {rotation: 360,reapeat:10});
+					TweenMax.to("#man", 20, {x:550, ease:Elastic.easeOut.config(1, 1), repeat:-1});
+					
+					
+					
+				</script>
+	</div>
+
+
+
+
+
+
+
+	
+</body>
+</html>
