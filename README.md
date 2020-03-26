@@ -12,7 +12,7 @@ Tijdens het maken van de website heb ik de volgende afmetingen gebruikt in Chrom
   Website 1280 x 620,
 </p> 
 </br>
-<img src="img/1280x620.jpg" style="width:500px; height:600px; border:2px solid #ddd;">
+<img src="img/1280x620.jpg" width="500px" border="2px solid #ddd;">
 
 iPad liggend 1024 x 768,
 <img src="img/1024x768.jpg">
