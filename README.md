@@ -16,19 +16,27 @@ Tijdens het maken van de website heb ik de volgende afmetingen gebruikt in Chrom
 border: 4px solid #BCBCBC;
 border-radius: 5px;">
 
-<h4>iPad liggend 1024 x 768,</h4>
+<b>
+  iPad liggend 1024 x 768,
+</b> 
 </br>
 <img src="img/1024x768.jpg" height="250px">
 
-iPad staand 768 x 1024,
+<b>
+  iPad staand 768 x 1024,
+</b>
 </br>
 <img src="img/768x1024.jpg" height="250px">
 
-Galaxy A70 414 x 736,
+<b>
+  Galaxy A70 414 x 736,
+</b>
 </br>
 <img src="img/414x736.jpg" height="250px">
 
-Apple 5/SE 320 x 568
+<b>
+  Apple 5/SE 320 x 568
+</b>
 </br>
 <img src="img/320x568.jpg" height="250px">
 </center>
