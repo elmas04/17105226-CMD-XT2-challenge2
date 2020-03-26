@@ -15,7 +15,7 @@ Tijdens het maken van de website heb ik de volgende afmetingen gebruikt in Chrom
 <img src="img/1280x620.jpg"  style="width:150px">
 
 iPad liggend 1024 x 768,
-<img src="img/1024x768.jpg">
+<img src="img/1024x768.jpg"  style="width:150px">
 
 iPad staand 768 x 1024,
 <img src="img/768x1024.jpg">
