@@ -33,4 +33,4 @@ Apple 5/SE 320 x 568
 <img src="img/320x568.jpg" height="250px">
 </center>
 
-<p><a href="https://elmas04.github.io/17105226-CMD-XT2-challenge2.html">KLIK HIER OM NAAR CHALLENGE 2 TE GAAN</a></p>
+<p><a href="https://elmas04.github.io/17105226-CMD-XT2-challenge2/">KLIK HIER OM NAAR CHALLENGE 2 TE GAAN</a></p>
