@@ -8,9 +8,9 @@ Als animatie op de website zie je dat de sterren bewegen, de astronaut in de rui
 Tijdens het maken van de website heb ik de volgende afmetingen gebruikt in Chrome:
 </p>
 
-<p>
+<b>
   Website 1280 x 620,
-</p> 
+</b> 
 </br>
 <img src="img/1280x620.jpg" height="250px";
 border: 4px solid #BCBCBC;
