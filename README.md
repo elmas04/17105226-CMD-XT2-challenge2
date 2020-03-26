@@ -1,4 +1,4 @@
-<center> <h1>Welkom op mijn website</h1>
+<center weight="1000px"> <h1>Welkom op mijn website</h1>
 <p>
   Hier vindt u een korte uitleg over de website dat ik heb gemaakt.
 Elon Musk wilde van ons een geanimeerde klok waar de huidige aardse tijd op verschillende schermen te zien is. Via javascript heb ik de tijd maar ook de datum weten te coderen. Via TweenMax heb ik de animatie op de website kunnen toepassen. Als u op de website bent, ziet u de klok die Elon Musk van ons wilden. Gelijk onder de klok ziet u een raam met een uitzicht op de melkweg. 
