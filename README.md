@@ -16,7 +16,7 @@ Tijdens het maken van de website heb ik de volgende afmetingen gebruikt in Chrom
 border: 4px solid #BCBCBC;
 border-radius: 5px;">
 
-iPad liggend 1024 x 768,
+<h4>iPad liggend 1024 x 768,</h4>
 </br>
 <img src="img/1024x768.jpg" height="250px">
 
